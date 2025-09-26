@@ -1,5 +1,6 @@
 # EcoTrack: Smart Home Energy Monitor 🌿
-![Screenshot 2024-09-29 114416](https://github.com/user-attachments/assets/be524910-89fa-4fba-8dd5-27a181241ca6)
+<img width="1168" height="657" alt="image" src="https://github.com/user-attachments/assets/eae1049c-da23-4714-b298-c6d92dd66cf6" />
+
 
 ## 🌟 Overview
 
